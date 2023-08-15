@@ -31,3 +31,26 @@ Our project aims to develop a system that manages bank accounts. Users can regis
 - Default Administrator credentials are `username: admin` and `password: admin!@#`.
 - The `routes` directory links URLs to the right pages in our project.
 - All the design components (from a pre-made template) are housed in the `public` directory.
+
+## Website screenshots:
+## Register:
+![Register](https://github.com/MayaGindin/BankWebsite/assets/94249909/5a51b1aa-c36b-41f5-b221-d454d0693d54)
+## Login:
+![Login](https://github.com/MayaGindin/BankWebsite/assets/94249909/51a9a24d-820f-47f8-bd07-dd920d79c520)
+## User Dashboard:
+![User_dashboard](https://github.com/MayaGindin/BankWebsite/assets/94249909/53e9c5b2-bb2c-45a3-90e4-7e7674521b6c)
+## Deposit:
+![Deposit](https://github.com/MayaGindin/BankWebsite/assets/94249909/41048027-0860-4fdc-bec3-c88bac4272a3)
+## Transfer:
+![Transfer](https://github.com/MayaGindin/BankWebsite/assets/94249909/eb77d05e-d1a8-451b-ba01-9bac543120b1)
+## User Transactions:
+![User_Transactions](https://github.com/MayaGindin/BankWebsite/assets/94249909/434c6261-f906-43cf-a321-96d08d290850)
+## Transaction details
+![Transaction_detail](https://github.com/MayaGindin/BankWebsite/assets/94249909/72ab1f94-e896-415c-a382-c09c49328973)
+## Admin Dashboard
+![Admin_dashboard](https://github.com/MayaGindin/BankWebsite/assets/94249909/798c92ba-8d31-42ce-b645-447a5e3ba4fa)
+## Admin Create User
+![Admin_Create_User](https://github.com/MayaGindin/BankWebsite/assets/94249909/6c8f68fd-26f7-4aca-869c-d89170fd8d7d)
+## Admin View Users
+![Admin_users](https://github.com/MayaGindin/BankWebsite/assets/94249909/2c50349d-058c-4110-a813-6a61546c3a96)
+
